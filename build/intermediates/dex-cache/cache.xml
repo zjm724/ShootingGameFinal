@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_8123eed03b89c6bdcd9b10c8caa66b838deeabbf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb286a735b5b18433174cdafe1959cb3ac548290">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_059f072f4d0f28dda42f0a0e64e9a81075795619\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\.android\build-cache\8698e2a8e3f2274476cb4d116a3452908a460e7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11f0bffae29da2d0af45b1b9a8e5bf9c3aee4c9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\.android\build-cache\3150a273f9a24766fff0883f2ac7738867ec98ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2b1683e773772a6a62d3f033837486133aafeac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\.android\build-cache\4aa1e04a1304bd7317565c02c6c207112e9bb943\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_017f7461c3459a72f6b57533079159e5d5ea0096\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\.android\build-cache\e6a3470ea86e3d5dd37620329397c5d3903d7320\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd448e2ccba371de978a98ea6556fc37d1841986\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\.android\build-cache\c613a90bf46d0ffc80ca934420d7e6a90b7daa17\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0122bd18d7b8ffd9153a4090bd290b769d8a2b6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\.android\build-cache\5267beaa77dbf0a00ce6d827879e471c2e6dd925\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3536fef8f8f6c2f08657fbdf58641ef3b8276032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8095bbcee8fed4dcbb0dceadcf6b284ed33774f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\zjm72\.android\build-cache\c613a90bf46d0ffc80ca934420d7e6a90b7daa17\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\zjm72\AndroidStudioProjects\ShootingGameFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_cee1ac0f401ec47f01ea1ea5cf7f65f232d03e57\classes.dex" />
+    </item>
+
+</items>
